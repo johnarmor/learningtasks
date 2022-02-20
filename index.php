@@ -1,19 +1,13 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
-        <title>My Home Page</title>
+         <title> My Home Page </title>
     </head>
     <body>
-    <h1>Recipe</h1>
+    <h1> Welcome To My Website! I am Armor Espinosa!</h1>
     <ul>
-        <li><a href="index.php">HOME</a></li>
-        <li><a href="/LT2/index.html">Pineapple Chicken</a></li>
-        <li><a href="/LT2/index.html">Egg Fried Rice</a></li>
-        <li><a href="/LT2/index.html">Cucumber Salad</a></li>
-        <li><a href="/LT2/index.html">Pad Thai Chicken</a></li>
-        <li><a href="/LT2/index.html">Chili Con Carne</a></li>
-        <li><a href="/LT2/index.html">Vegetarian Rice</a></li>
-        <li><a href="/LT2/index.html">Carbonara Al Funghi</a></li>
-        </ul>
-    </body>
+       <li><a href="index.php">HOME</a></li>
+       <li><a href="/LT2/recipes.html">LEARNING TASK 2</a></li>
+    </ul>
+ </body>
 </html>
