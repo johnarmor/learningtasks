@@ -7,7 +7,7 @@
     <h1> Welcome To My Website! I am Armor Espinosa!</h1>
     <ul>
        <li><a href="index.php">HOME</a></li>
-       <li><a href="LT2/Recipe.html">LEARNING TASK 2</a></li>
+       <li><a href="/LT2/Recipe.html">LEARNING TASK 2</a></li>
     </ul>
  </body>
 </html>
