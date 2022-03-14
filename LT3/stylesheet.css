@@ -13,10 +13,10 @@ body{
 		 width: 250px;
 		 height: 400px;
 		 margin: 10px;
-		 border: 2px solid #783f04;
+		 border: 2px solid #8B0000;
 		 float: left;
 		 font-size: 17px;
-		 color:#8B0000;
+		 color:#000000;
                  text-align:center;
 }
 #wrapper div img {
