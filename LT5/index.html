@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Javascript Espinosa</title>
+    <script src="js/script.js"></script>
+    <link rel="stylesheet" href="css/stylesheet.css">
+    </head>
+    <body>
+       <h2 onclick="showCoords(event)">CLICK ME :) CLICK ME :) CLICK ME :) CLICK ME :) CLICK ME :) CLICK ME :) CLICK ME :) CLICK ME :)</h2>
+
+<p><strong>Tip:</strong> Try to click different places in the heading.</p>
+
+<p id="demo"></p>
+        
+        <script>
+function showCoords(event) {
+  var x = event.clientX;
+  var y = event.clientY;
+  var coords = "X coords: " + x + ", Y coords: " + y;
+  document.getElementById("demo").innerHTML = coords;
+}
+</script>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+body{
+    background-image: url(../images/PARASAINDEX.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+h1 {
+color: #000000;
+font-family: "Times New Roman", Times, serif;
+}
