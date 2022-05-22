@@ -130,7 +130,7 @@
                                 <textarea  type="text" class="form-control" name="detail" id="exampleInputtextarea" required placeholder="enter your query"></textarea>
 
                             </div>
-                            <a href="/Portfolio/index.php">Submit</a>
+                          <a href="/Portfolio/index.php"><button>Submit</a></button>
                         </form>
                     </div>
                     <div class="col">
