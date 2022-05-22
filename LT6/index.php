@@ -160,7 +160,7 @@
         </div>
     </div>
     
-    <script type="text/javascript" src="js/scripts.js"></script>
+    <script src="js/script.js"></script>
 
 </body>
 
